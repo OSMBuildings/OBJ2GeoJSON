@@ -1,0 +1,21 @@
+{
+  "name": "OBJ2GeoJSON",
+  "private": false,
+  "description": "OBJ to GeoJSON converter",
+  "version": "0.1.0",
+  "homepage": "http://osmbuildings.org",
+  "author": "@kekscom",
+  "contributors": [],
+  "maintainers": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:OSMBuildings/OBJ2GeoJSON.git"
+  },
+  "scripts": {},
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jsts": "^0.16.0"
+  },
+  "optionalDependencies": {}
+}
